@@ -26,7 +26,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "mx.conekta.flutter"
+    namespace "com.apeirotechnologies.conekta_flutter"
     compileSdkVersion 28
 
     sourceSets {
